@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SPENCERPC</Machine>
+    <WindowsUser>Spencer</WindowsUser>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>1BCC33B383F357DF03AED803CD62AC09F38F7E8727C6606838CC6283F85427B3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7dd73950-f66e-4f25-a219-9c43b13a84ef_1.0.0.0_x86__hzzspevchz7nj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7dd73950-f66e-4f25-a219-9c43b13a84ef_hzzspevchz7nj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7dd73950-f66e-4f25-a219-9c43b13a84ef</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Spencer</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-12T01:41:44.524</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\CodeReference.exe">
+      <PackagePath>CodeReference.exe</PackagePath>
+      <Modified>2013-07-12T21:35:40.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\CodeReference.pdb">
+      <PackagePath>CodeReference.pdb</PackagePath>
+      <Modified>2013-07-12T21:35:41.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\CodeReference.winmd">
+      <PackagePath>CodeReference.winmd</PackagePath>
+      <Modified>2013-07-11T14:22:26.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2013-07-13T20:38:13.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\C Languages.png">
+      <PackagePath>Assets\C Languages.png</PackagePath>
+      <Modified>2013-07-12T01:40:49.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\C.png">
+      <PackagePath>Assets\C.png</PackagePath>
+      <Modified>2013-07-12T01:26:35.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\CPP.png">
+      <PackagePath>Assets\CPP.png</PackagePath>
+      <Modified>2013-07-12T01:26:44.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\CS.png">
+      <PackagePath>Assets\CS.png</PackagePath>
+      <Modified>2013-07-12T01:26:49.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T23:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T23:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-18T23:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-12T21:51:54.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-04-18T23:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-04-18T23:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\CodeReference\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-04-18T23:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-07-11T14:22:27.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2013-07-11T15:15:32.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2013-07-11T14:22:27.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\documents\visual studio 2013\Projects\CodeReference\Debug\CodeReference\CodeReference\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-12T01:41:44.429</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.20617.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.20617.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.20617.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.20617.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.20617.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.20617.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

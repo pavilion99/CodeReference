@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>3d9364e9-29b1-4f5d-8d63-c163ac1248c2</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>9be39d6b-5c65-4fa4-840f-4818a6235fe1</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataModel">
+      <UniqueIdentifier>96e09abd-a25a-4ec3-8f70-ec789a40050e</UniqueIdentifier>
+    </Filter>
+    <None Include="Common\ReadMe.txt">
+      <Filter>Common</Filter>
+    </None>
+    <ClCompile Include="Common\NavigationHelper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\RelayCommand.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\BooleanToVisibilityConverter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\SuspensionManager.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClInclude Include="Common\NavigationHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\RelayCommand.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\BooleanToVisibilityConverter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\SuspensionManager.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <Image Include="Assets\Logo.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SmallLogo.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-100.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\LightGray.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\MediumGray.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\DarkGray.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <ClCompile Include="DataModel\SampleDataSource.cpp">
+      <Filter>DataModel</Filter>
+    </ClCompile>
+    <ClInclude Include="DataModel\SampleDataSource.h">
+      <Filter>DataModel</Filter>
+    </ClInclude>
+    <Text Include="DataModel\SampleData.json">
+      <Filter>DataModel</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.xaml.cpp" />
+    <ClCompile Include="ItemsPage.xaml.cpp" />
+    <ClCompile Include="SplitPage.xaml.cpp" />
+    <ClCompile Include="pch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="App.xaml.h" />
+    <ClInclude Include="ItemsPage.xaml.h" />
+    <ClInclude Include="SplitPage.xaml.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CodeReference_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="ItemsPage.xaml" />
+    <Page Include="SplitPage.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\C Languages.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\C.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\CPP.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\CS.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
